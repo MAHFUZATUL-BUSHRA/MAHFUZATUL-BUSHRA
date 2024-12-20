@@ -2,7 +2,6 @@
 - I'm passionate about gleaning insights from data and transforming them into feasible solutions. My interest in data analytics stems from fascination and my desire to make data-driven judgments.
 - 👀 I’m interested in uncovering insights through data analysis, machine learning, deep learning, and impactful visualizations.
 - 🌱 I’m currently learning Data Analysis, Data Science, Machine Learning and Deep learning
-- 💞️ I’m looking to collaborate
 - 💞️ I’m eager to collaborate on:
      -Data analysis and visualization projects
      -Machine learning and deep learning applications
