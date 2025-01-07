@@ -11,10 +11,10 @@
 
 - 💬 Ask me about **SQL, Power BI, Python, R, machine learning.**
 
-- 📫 How to reach me! **Linkedln:https://www.linkedin.com/in/mahfuzatulbushra/** , **Gmail:bushramahfuzatul@gmail.com**
+- 📫 How to reach me: [linkedln](Linkedln:https://www.linkedin.com/in/mahfuzatulbushra)  [Gmail](Gmail:bushramahfuzatul@gmail.com)
 
 - ⚡ Fun fact **I feel like data is a puzzle lining up to be solved, and I enjoy connecting the pieces to reveal hidden stories!**
-
+- 👨‍💻 All of my projects are available at: [Portfolio](https://mahfuzatulbushra.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahfuzatulbushra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahfuzatulbushra" height="30" width="40" /></a>
@@ -30,4 +30,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzatul-bushra&show_icons=true&locale=en&layout=compact" alt="mahfuzatul-bushra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzatul-bushra&" alt="mahfuzatul-bushra" /></p>
-
