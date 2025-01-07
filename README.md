@@ -11,10 +11,7 @@
 
 - 💬 Ask me about **SQL, Power BI, Python, R, machine learning.**
 
-- 📫 How to reach me!
-  
- **Linkedln:https://www.linkedin.com/in/mahfuzatulbushra/**
- **Gmail:bushramahfuzatul@gmail.com**
+- 📫 How to reach me! **Linkedln:https://www.linkedin.com/in/mahfuzatulbushra/** , **Gmail:bushramahfuzatul@gmail.com**
 
 - ⚡ Fun fact **I feel like data is a puzzle lining up to be solved, and I enjoy connecting the pieces to reveal hidden stories!**
 
