@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @MAHFUZATUL-BUSHRA</h1>
-<h3 align="center">A passionate Data scientist from Bangladesh.</h3>
+<h3 align="center">A passionate Data Analyst & Data scientist from Bangladesh.</h3>
 
 - 🔭 I'm passionate **about gleaning insights from data and transforming them into feasible solutions. My interest in data analytics stems from fascination and my desire to make data-driven judgments.**
 
