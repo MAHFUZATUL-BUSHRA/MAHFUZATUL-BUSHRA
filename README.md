@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm @MAHFUZATUL-BUSHRA</h1>
 <h3 align="center">A passionate Data Analyst & Data scientist from Bangladesh.</h3>
+<h3 align="center">Working As a Data Analyst @Interactive Cares.</h3>
 
 - 🔭 I'm passionate **about gleaning insights from data and transforming them into feasible solutions. My interest in data analytics stems from fascination and my desire to make data-driven judgments.**
 
-- 🌱 I’m currently learning **Data Analysis, Data Science, Machine Learning and Deep learning.**
+- 🌱 I’m currently learning **Data Analysis, Data Science, Machine Learning, Deep learning and BigData.**
 
-- 👯 I’m looking to collaborate on **-Data analysis and visualization projects -Machine learning and deep learning applications -Research papers and academic projects in data science -Business Intelligence (BI) reporting -Exploratory Data Analysis (EDA).**
+- 👯 I’m looking to collaborate on **-Machine learning and deep learning applications -Research papers and academic projects in data science -Exploratory Data Analysis (EDA).**
 
 - 👀 I’m interested in **uncovering insights through data analysis, machine learning, deep learning, and impactful visualizations.**
 
-- 💬 Ask me about **SQL, Power BI, Python, R, machine learning.**
+- 💬 Ask me about **SQL, Power BI, Python, R, Machine Learning, Deep Learning, BigData.**
 
 - 📫 How to reach me: [linkedln](https://www.linkedin.com/in/mahfuzatulbushra) | [Gmail](bushramahfuzatul@gmail.com)
 
