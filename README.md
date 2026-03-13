@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **uncovering insights through data analysis, machine learning, deep learning, and impactful visualizations.**
 
-- 💬 Ask me about **SQL, Power BI, Python, R, Machine Learning, Deep Learning, BigData.**
+- 💬 Ask me about **SQL, Power BI, Metabase, Python, R, Machine Learning, Deep Learning, BigData.**
 
 - 📫 How to reach me: [linkedln](https://www.linkedin.com/in/mahfuzatulbushra) | [Gmail](bushramahfuzatul@gmail.com)
 
